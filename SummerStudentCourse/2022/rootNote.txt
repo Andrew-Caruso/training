@@ -1,0 +1,7 @@
+You can do .! to do commandline in root
+e.g.
+root -l 
+.!ls 
+
+to run jupyter notebook version of root (for ipynb files aka python notebooks) do:
+root --notebook 
